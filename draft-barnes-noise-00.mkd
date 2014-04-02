@@ -1,0 +1,95 @@
+---
+title: Dissolving the Independent Stream 
+abbrev: NOISE
+docname: draft-barnes-noise-00
+date: 2014-04-01
+category: info
+ipr: trust200902
+updates: 6635
+obsoletes: 6548
+
+author:
+ -
+    ins: R. Barnes
+    name: Richard Barnes
+    organization: 
+    email: rlb@ipv.sx
+
+normative:
+  RFC6548:
+  RFC6635:
+
+informative:
+  RFC2026:
+
+--- abstract
+
+The Independent Stream has served for many years as a way for
+independent authors to publish specifications in the RFC series.  In
+the modern Internet, however, there are many other channels for
+publishing such specifications, so the Independent Stream is no
+longer necessary.  This document dissolves the Independent Stream and
+the related management entities, the Independent Series Editor and
+the Independent Series Editorial Board.
+
+--- middle
+
+# Introduction
+
+In the early days of the Internet, the RFC series served as a means
+of technical coordination between scientists and developers working
+on the Internet, at a time when few other channels for publishing
+technical specifications were available.  The Independent Stream of
+RFCs provided a way for independent authors to publish through this
+channel, without the need for the IESG, IRSG, or IAB to approve.
+
+This document dissolve the Independent Stream, for a few reasons:
+
+* There are abundant alternative channels for publishing specifications
+* The RFC "brand" is tied to the IETF
+* The existence of the Independent Stream creates a risk of end-runs
+
+With the growth of the Internet, and especially the Web, there are
+many more venues for independent authors to publish technical
+specifications.  Some web sites make publishing a specification as
+simple as typing into a web form, and many sites have much better
+support for collaborative editing and internationalization than the
+RFC series.  So the independent author community would be better
+served by publishing their specifications through those channels than
+by continuing to use the Independent Stream of RFCs.
+
+In the broader community of consumers of RFCs (as opposed to those of
+us who participate in their creation), the knowledge of streams is
+not widespread.  Rather, an RFC from any stream is taken with more or
+less equivalent weight.  Publishing independently authored documents
+as RFCs risks causing confusion between independently authored
+documents with minimal review, and documents that are the product of
+the extensive IETF consensus process.  We serve the community better
+by aligning to their expectations.
+
+Finally, the existence of the Independent Stream gives authors a way
+to circumvent the processes established by the IETF, IRTF, and IAB
+for assuring the quality of documents in their streams.  T Over time,
+a substantial body of process has grown up to mitigate these risks.
+Dissolving the Independent Stream removes the need for this process,
+simplifying the management of the RFC series, while also removing the
+path to end-run the I* processes.
+
+Independent authors still wishing to publish RFCs should keep in mind
+that they still have access to the individual submission process.  This
+process allows an individual, with the sponsorship of any Area Director,
+to propose a document for IETF review and possible publication as an RFC
+[RFC2026].
+
+
+# Actions
+
+The approval of this document reflects the consensus of the Internet
+community to dissolve the following roles and organizations:
+
+* Independent Stream Editor [RFC6548]
+* Independent Submissions Editorial Board [RFC6548]
+
+In addition, this document updates RFC 6635 [RFC6635] to remove the
+Independent Stream from the RFC Editor model.  The RFC Editor no
+longer accepts submissions from independent authors.

@@ -1,0 +1,169 @@
+
+
+
+
+Network Working Group                                          R. Barnes
+Internet-Draft
+Obsoletes: 6548 (if approved)                             April 01, 2014
+Updates: 6635 (if approved)
+Intended status: Informational
+Expires: October 03, 2014
+
+
+                   Dissolving the Independent Stream
+                         draft-barnes-noise-00
+
+Abstract
+
+   The Independent Stream has served for many years as a way for
+   independent authors to publish specifications in the RFC series.  In
+   the modern Internet, however, there are many other channels for
+   publishing such specifications, so the Independent Stream is no
+   longer necessary.  This document dissolves the Independent Stream and
+   the related management entities, the Independent Series Editor and
+   the Independent Series Editorial Board.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at http://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on October 03, 2014.
+
+Copyright Notice
+
+   Copyright (c) 2014 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents
+   (http://trustee.ietf.org/license-info) in effect on the date of
+   publication of this document.  Please review these documents
+   carefully, as they describe your rights and restrictions with respect
+
+
+
+Barnes                  Expires October 03, 2014                [Page 1]
+
+Internet-Draft                    NOISE                       April 2014
+
+
+   to this document.  Code Components extracted from this document must
+   include Simplified BSD License text as described in Section 4.e of
+   the Trust Legal Provisions and are provided without warranty as
+   described in the Simplified BSD License.
+
+1.  Introduction
+
+   In the early days of the Internet, the RFC series served as a means
+   of technical coordination between scientists and developers working
+   on the Internet, at a time when few other channels for publishing
+   technical specifications were available.  The Independent Stream of
+   RFCs provided a way for independent authors to publish through this
+   channel, without the need for the IESG, IRSG, or IAB to approve.
+
+   This document dissolve the Independent Stream, for a few reasons:
+
+   o  There are abundant alternative channels for publishing
+      specifications
+
+   o  The RFC "brand" is tied to the IETF
+
+   o  The existence of the Independent Stream creates a risk of end-runs
+
+   With the growth of the Internet, and especially the Web, there are
+   many more venues for independent authors to publish technical
+   specifications.  Some web sites make publishing a specification as
+   simple as typing into a web form, and many sites have much better
+   support for collaborative editing and internationalization than the
+   RFC series.  So the independent author community would be better
+   served by publishing their specifications through those channels than
+   by continuing to use the Independent Stream of RFCs.
+
+   In the broader community of consumers of RFCs (as opposed to those of
+   us who participate in their creation), the knowledge of streams is
+   not widespread.  Rather, an RFC from any stream is taken with more or
+   less equivalent weight.  Publishing independently authored documents
+   as RFCs risks causing confusion between independently authored
+   documents with minimal review, and documents that are the product of
+   the extensive IETF consensus process.  We serve the community better
+   by aligning to their expectations.
+
+   Finally, the existence of the Independent Stream gives authors a way
+   to circumvent the processes established by the IETF, IRTF, and IAB
+   for assuring the quality of documents in their streams.  T Over time,
+   a substantial body of process has grown up to mitigate these risks.
+   Dissolving the Independent Stream removes the need for this process,
+   simplifying the management of the RFC series, while also removing the
+   path to end-run the I* processes.
+
+
+
+Barnes                  Expires October 03, 2014                [Page 2]
+
+Internet-Draft                    NOISE                       April 2014
+
+
+   Independent authors still wishing to publish RFCs should keep in mind
+   that they still have access to the individual submission process.
+   This process allows an individual, with the sponsorship of any Area
+   Director, to propose a document for IETF review and possible
+   publication as an RFC [RFC2026].
+
+2.  Actions
+
+   The approval of this document reflects the consensus of the Internet
+   community to dissolve the following roles and organizations:
+
+   o  Independent Stream Editor [RFC6548]
+
+   o  Independent Submissions Editorial Board [RFC6548]
+
+   In addition, this document updates RFC 6635 [RFC6635] to remove the
+   Independent Stream from the RFC Editor model.  The RFC Editor no
+   longer accepts submissions from independent authors.
+
+3.  References
+
+3.1.  Normative References
+
+   [RFC6548]  Brownlee, N. and IAB, "Independent Submission Editor
+              Model", RFC 6548, June 2012.
+
+   [RFC6635]  Kolkman, O., Halpern, J., and IAB, "RFC Editor Model
+              (Version 2)", RFC 6635, June 2012.
+
+3.2.  Informative References
+
+   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
+              3", BCP 9, RFC 2026, October 1996.
+
+Author's Address
+
+   Richard Barnes
+
+   Email: rlb@ipv.sx
+
+
+
+
+
+
+
+
+
+
+
+
+Barnes                  Expires October 03, 2014                [Page 3]
+
