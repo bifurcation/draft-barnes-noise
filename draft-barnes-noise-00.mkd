@@ -5,7 +5,7 @@ docname: draft-barnes-noise-00
 date: 2014-04-01
 category: info
 ipr: trust200902
-updates: 6635
+updates: 6635, 2026, 5742
 obsoletes: 6548
 
 author:
@@ -16,6 +16,8 @@ author:
     email: rlb@ipv.sx
 
 normative:
+  RFC2026:
+  RFC5742:
   RFC6548:
   RFC6635:
 
@@ -90,6 +92,16 @@ community to dissolve the following roles and organizations:
 * Independent Stream Editor [RFC6548]
 * Independent Submissions Editorial Board [RFC6548]
 
-In addition, this document updates RFC 6635 [RFC6635] to remove the
+This document updates RFC 6635 [RFC6635] to remove the
 Independent Stream from the RFC Editor model.  The RFC Editor no
 longer accepts submissions from independent authors.
+
+This document updates RFC 2026 [RFC2026] to remove provisions that allow for documents to circumvent normal processes.
+
+* In Section 2.1:
+  * OLD: "Non-standards track specifications may be published directly as "Experimental" or "Informational" RFCs at the discretion of the RFC Editor in consultation with the IESG (see section 4.2)."
+  * NEW: "Non-standards track specifications may be published as "Experimental" or "Informational" RFCs at the discretion of the IESG (see section 4.2)."
+* Remove section 4.2.3 in its entirety
+
+This document updates RFC 5742 by invalidating procedures related to the Independent Stream [RFC5742].   
+

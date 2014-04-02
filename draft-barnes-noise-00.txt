@@ -5,7 +5,7 @@
 Network Working Group                                          R. Barnes
 Internet-Draft
 Obsoletes: 6548 (if approved)                             April 01, 2014
-Updates: 6635 (if approved)
+Updates: 6635, 2026, 5742 (if approved)
 Intended status: Informational
 Expires: October 03, 2014
 
@@ -129,13 +129,46 @@ Internet-Draft                    NOISE                       April 2014
 
    o  Independent Submissions Editorial Board [RFC6548]
 
-   In addition, this document updates RFC 6635 [RFC6635] to remove the
-   Independent Stream from the RFC Editor model.  The RFC Editor no
-   longer accepts submissions from independent authors.
+   This document updates RFC 6635 [RFC6635] to remove the Independent
+   Stream from the RFC Editor model.  The RFC Editor no longer accepts
+   submissions from independent authors.
+
+   This document updates RFC 2026 [RFC2026] to remove provisions that
+   allow for documents to circumvent normal processes.
+
+   o  In Section 2.1:
+
+      *  OLD: "Non-standards track specifications may be published
+         directly as "Experimental" or "Informational" RFCs at the
+         discretion of the RFC Editor in consultation with the IESG (see
+         section 4.2)."
+
+      *  NEW: "Non-standards track specifications may be published as
+         "Experimental" or "Informational" RFCs at the discretion of the
+         IESG (see section 4.2)."
+
+   o  Remove section 4.2.3 in its entirety
+
+   This document updates RFC 5742 by invalidating procedures related to
+   the Independent Stream [RFC5742].
 
 3.  References
 
 3.1.  Normative References
+
+   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
+              3", BCP 9, RFC 2026, October 1996.
+
+   [RFC5742]  Alvestrand, H. and R. Housley, "IESG Procedures for
+              Handling of Independent and IRTF Stream Submissions", BCP
+              92, RFC 5742, December 2009.
+
+
+
+Barnes                  Expires October 03, 2014                [Page 3]
+
+Internet-Draft                    NOISE                       April 2014
+
 
    [RFC6548]  Brownlee, N. and IAB, "Independent Submission Editor
               Model", RFC 6548, June 2012.
@@ -165,5 +198,28 @@ Author's Address
 
 
 
-Barnes                  Expires October 03, 2014                [Page 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barnes                  Expires October 03, 2014                [Page 4]
 
