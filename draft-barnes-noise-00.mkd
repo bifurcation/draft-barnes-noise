@@ -1,8 +1,8 @@
 ---
-title: Dissolving the Independent Stream 
+title: Dissolving the Independent Stream
 abbrev: NOISE
 docname: draft-barnes-noise-00
-date: 2014-04-01
+date: 2014-04-02
 category: info
 ipr: trust200902
 updates: 6635, 2026, 5742
@@ -12,7 +12,7 @@ author:
  -
     ins: R. Barnes
     name: Richard Barnes
-    organization: 
+    organization:
     email: rlb@ipv.sx
 
 normative:
@@ -22,7 +22,6 @@ normative:
   RFC6635:
 
 informative:
-  RFC2026:
 
 --- abstract
 
@@ -103,5 +102,13 @@ This document updates RFC 2026 [RFC2026] to remove provisions that allow for doc
   * NEW: "Non-standards track specifications may be published as "Experimental" or "Informational" RFCs at the discretion of the IESG (see section 4.2)."
 * Remove section 4.2.3 in its entirety
 
-This document updates RFC 5742 by invalidating procedures related to the Independent Stream [RFC5742].   
+This document updates RFC 5742 by invalidating procedures related to the Independent Stream [RFC5742].
 
+# Other details
+
+A large portion of documents published in the Independent Stream are humorous
+"April First" RFCs.  Responsibility for these RFCs going forward will rest with
+the RFC Series Editor (RSE).  The process and content for these documents is
+left at the sole discretion of the RSE.
+
+--- back

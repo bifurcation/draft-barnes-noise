@@ -4,10 +4,10 @@
 
 Network Working Group                                          R. Barnes
 Internet-Draft
-Obsoletes: 6548 (if approved)                             April 01, 2014
+Obsoletes: 6548 (if approved)                             April 02, 2014
 Updates: 6635, 2026, 5742 (if approved)
 Intended status: Informational
-Expires: October 03, 2014
+Expires: October 4, 2014
 
 
                    Dissolving the Independent Stream
@@ -38,7 +38,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on October 03, 2014.
+   This Internet-Draft will expire on October 4, 2014.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Barnes                  Expires October 03, 2014                [Page 1]
+Barnes                   Expires October 4, 2014                [Page 1]
 
 Internet-Draft                    NOISE                       April 2014
 
@@ -109,7 +109,7 @@ Internet-Draft                    NOISE                       April 2014
 
 
 
-Barnes                  Expires October 03, 2014                [Page 2]
+Barnes                   Expires October 4, 2014                [Page 2]
 
 Internet-Draft                    NOISE                       April 2014
 
@@ -152,9 +152,25 @@ Internet-Draft                    NOISE                       April 2014
    This document updates RFC 5742 by invalidating procedures related to
    the Independent Stream [RFC5742].
 
-3.  References
+3.  Other details
 
-3.1.  Normative References
+   A large portion of documents published in the Independent Stream are
+   humorous "April First" RFCs.  Responsibility for these RFCs going
+   forward will rest with the RFC Series Editor (RSE).  The process and
+   content for these documents is left at the sole discretion of the
+   RSE.
+
+
+
+
+
+
+Barnes                   Expires October 4, 2014                [Page 3]
+
+Internet-Draft                    NOISE                       April 2014
+
+
+4.  Normative References
 
    [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
               3", BCP 9, RFC 2026, October 1996.
@@ -163,23 +179,11 @@ Internet-Draft                    NOISE                       April 2014
               Handling of Independent and IRTF Stream Submissions", BCP
               92, RFC 5742, December 2009.
 
-
-
-Barnes                  Expires October 03, 2014                [Page 3]
-
-Internet-Draft                    NOISE                       April 2014
-
-
    [RFC6548]  Brownlee, N. and IAB, "Independent Submission Editor
               Model", RFC 6548, June 2012.
 
    [RFC6635]  Kolkman, O., Halpern, J., and IAB, "RFC Editor Model
               (Version 2)", RFC 6635, June 2012.
-
-3.2.  Informative References
-
-   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
-              3", BCP 9, RFC 2026, October 1996.
 
 Author's Address
 
@@ -217,9 +221,4 @@ Author's Address
 
 
 
-
-
-
-
-Barnes                  Expires October 03, 2014                [Page 4]
-
+Barnes                   Expires October 4, 2014                [Page 4]
